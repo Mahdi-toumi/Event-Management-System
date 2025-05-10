@@ -28,7 +28,7 @@ This project develops a relational database system for managing event venues and
    - Java Development Kit (JDK) 8 or higher
    - JDBC Driver for Oracle
 2. **Setup**:
-   - Clone the repository: `git clone https://github.com/yourusername/event-management-system.git`
+   - Clone the repository: `git clone https://github.com/Mahdi-toumi/Event-Management-System.git`
    - Configure the Oracle Database with the provided SQL scripts (`create_tables.sql`, `insert_data.sql`).
    - Update the `DBConnection.java` file with your database credentials (URL, USER, PASSWORD).
 3. **Run**:
