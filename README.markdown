@@ -89,6 +89,11 @@ This project develops a relational database system for managing event venues and
 - **Data Scope**: Limited to mock data; real-world data may require additional validation.
 - **Interface**: Basic GUI; lacks advanced features like drag-and-drop scheduling.
 - **Scalability**: Single-user focus; multi-user support needs further development.
+## Screenshots 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/193152dc-65dc-4f52-8aa4-9d0d4e438bbe" alt="Event Detail" width="500"/>
+  <img src="https://github.com/user-attachments/assets/3613b3ed-e8b1-4d3c-be10-2c87a6ea2a34" alt="Event Detail" width="400"/>
+</p>
 
 ## Future Improvements
 - Develop RESTful APIs for cross-platform integration.
@@ -104,3 +109,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Acknowledgments
 This project was developed as part of a database management course at the École Nationale d'Ingénieurs de Carthage, Université de Carthage. Thanks to the faculty for guidance and to Mockaroo for facilitating mock data generation.
+
+
